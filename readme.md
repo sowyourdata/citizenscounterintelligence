@@ -1,0 +1,1 @@
+This site was made to host the data contained in a Right-to-Know request sent to Harrisburg, PA inquiring about the recent installations of ALPR cameras in Harrisburg.
