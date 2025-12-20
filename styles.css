@@ -66,12 +66,15 @@ footer {
 }
 
 .camera-image-row {
-  display: flex;
+  display: flex !important;
   gap: 1rem;
   margin-top: 1rem;
+  justify-content: center;
+  flex-wrap: wrap; /* prevents overflow on small screens */
 }
 
 .camera-image-row img {
-  width: 200px;
-  height: auto;
+  width: 140px !important;
+  height: auto !important;
+  max-width: 100%;
 }
