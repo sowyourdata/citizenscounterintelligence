@@ -66,6 +66,6 @@ footer {
 }
 
 .camera-image-row img {
-  width: 80px !important;
+  width: 200px !important;
   border: 2px solid red;
 }
